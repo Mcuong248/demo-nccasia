@@ -25,17 +25,17 @@ public class ManagerOfficer {
             if (officerType == 1){
                 System.out.println("Nhập bậc: ");
                 int level = sc.nextInt();
-                Officer workers = new Worker(name, age, gender, address, level);
+                Worker workers = new Worker(name, age, gender, address, level);
                 officerList.add(workers);
             } else if (officerType == 2) {
                 System.out.println("Nhập ngành đào tạo: ");
                 String branch = sc.nextLine();
-                Officer engineer = new Engineer(name, age, gender, address, branch);
+                Engineer engineer = new Engineer(name, age, gender, address, branch);
                 officerList.add(engineer);
             } else if (officerType == 3) {
                 System.out.println("Nhập công việc: ");
                 String task = sc.nextLine();
-                Officer staff = new Staff(name, age, gender, address, task);
+                Staff staff = new Staff(name, age, gender, address, task);
                 officerList.add(staff);
             }else {
                 System.out.println("Không có loại cán bộ này! ");
