@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa8caa2-5a7b-49ce-af71-6d1fd0773442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overloading/src/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overriding/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overriding/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overriding/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0.OOP/Overriding&amp;Overloading/demo_overriding/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/src/Test_Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/Mutable_VS_Immutable/src/Test_Mutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/String_StringBuffer_StringBuilder/StringBuffer_Sync/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/String_StringBuffer_StringBuilder/StringBuilder_MutilThread/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/String_StringBuffer_StringBuilder/StringBuilder_MutilThread/src/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/String_StringBuffer_StringBuilder/StringBuilder_StringBuffer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.String/String_StringBuffer_StringBuilder/StringPool/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Passing Mechanism/PassByReference/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Passing Mechanism/PassByReference/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Passing Mechanism/PassByValue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Passing Mechanism/PassByValue/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/src/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Class/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Method/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Method/src/MyWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Method/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Method/src/UsingStaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Variable/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Variable/src/MyWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Variable/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Static/Static_Variable/src/UsingStaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.Exception/Demo_TryCatch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.Exception/Demo_TryCatch/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.Exception/Trycatch_Resource/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Lambda/Lambda_Consumer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Lambda/Lambda_MethodReference/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Lambda/Lambda_MethodReference/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Lambda/Lambda_MethodReference/src/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Collection/Demo_ArrayList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0.OOP/OOP/Bai01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0.OOP/OOP/Bai01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2O0D5hknOZOpbcPw54aTw4PEPn9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/NCC Asia/demo-nccasia/11.Enum/Test"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa8caa2-5a7b-49ce-af71-6d1fd0773442" name="Changes" comment="" />
+      <created>1680688425226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680688425226</updated>
+    </task>
+    <servers />
+  </component>
+</project>
