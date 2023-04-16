@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<form class="w3-container w3-card  w3-light-grey"
+      th:action="@{/post}" th:object="${employee}" method="post" >
+    <table>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" th:field="*{employeeName}"></td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td><input type="text" th:field="*{email}"></td>
+        </tr>
+        <tr>
+            <td>Role</td>
+            <td><input type="text" th:field="*{role}"></td>
+        </tr>
+        <tr>
+        <tr align="center">
+            <td><p th:text="${message}"></p></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><p>
+                <input class="w3-btn w3-block w3-green w3-m"
+                       type="submit" value="Save"/>
+            </p></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
