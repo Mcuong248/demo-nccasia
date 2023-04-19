@@ -18,14 +18,15 @@ public class Comment {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Column(name = "score")
-    private int score;
+    @Column(name = "comments")
+    private String comments;
+
 
     @Column(name = "evaluator")
     private String evaluator;
 
-    @Column(name = "comments")
-    private String comments;
+    @Column(name = "score")
+    private int score;
 
     @ManyToOne()
     @JoinColumn(name = "employee_id", nullable = false)

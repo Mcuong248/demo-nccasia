@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3.Passing Mechanism.iml" filepath="$PROJECT_DIR$/.idea/3.Passing Mechanism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassByReference/PassByReference.iml" filepath="$PROJECT_DIR$/PassByReference/PassByReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassByValue/PassByValue.iml" filepath="$PROJECT_DIR$/PassByValue/PassByValue.iml" />
+    </modules>
+  </component>
+</project>

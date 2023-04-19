@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5.Static.iml" filepath="$PROJECT_DIR$/.idea/5.Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_Class/Static_Class.iml" filepath="$PROJECT_DIR$/Static_Class/Static_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_Method/Static_Method.iml" filepath="$PROJECT_DIR$/Static_Method/Static_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_Variable/Static_Variable.iml" filepath="$PROJECT_DIR$/Static_Variable/Static_Variable.iml" />
+    </modules>
+  </component>
+</project>

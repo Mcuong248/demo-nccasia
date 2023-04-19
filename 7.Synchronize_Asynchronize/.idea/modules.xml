@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7.Synchronize_Asynchronize.iml" filepath="$PROJECT_DIR$/.idea/7.Synchronize_Asynchronize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock_Thread/DeadLock_Thread.iml" filepath="$PROJECT_DIR$/DeadLock_Thread/DeadLock_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeamonThread/DeamonThread.iml" filepath="$PROJECT_DIR$/DeamonThread/DeamonThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread_Synchronize/Thread_Synchronize.iml" filepath="$PROJECT_DIR$/Thread_Synchronize/Thread_Synchronize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread_join/Thread_join.iml" filepath="$PROJECT_DIR$/Thread_join/Thread_join.iml" />
+    </modules>
+  </component>
+</project>

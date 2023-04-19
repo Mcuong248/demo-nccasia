@@ -1,18 +1,17 @@
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập tuổi của bạn");
-        int age = sc.nextInt();
         try {
-            int a = age / 0;
-            System.out.println("Chia một số cho 0");
-        }catch (ArithmeticException e){
-            System.out.println("Không thể chia 1 số cho 0");
-            e.getMessage();
+            int age = sc.nextInt();
+        }catch (InputMismatchException ime){
+            System.out.println("Phải nhập vào số nguyên");
+            ime.getMessage();
         }finally {
             System.out.println("Đây là khối finally");
         }
@@ -23,7 +22,15 @@ public class Main {
         }catch (ArrayIndexOutOfBoundsException e){
             System.out.println(e);
         }
+        System.out.println("tiep tuc chuong trinh..");
+        System.out.println();
+        validate(16);
+        System.out.println("Reset");
+        System.out.println();
+        c();
+        System.out.println("Luồng bình thường....");
     }
+
     // Throw
     // throw sử dụng để ném ra ngoại lệ cụ thể
     public static void validate(int age) {

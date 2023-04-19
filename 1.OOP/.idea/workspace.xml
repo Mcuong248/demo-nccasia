@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47685157-b713-4db6-9588-872e945a5a7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/DeadLock_Thread/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/DeadLock_Thread/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/DeadLock_Thread/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/DeamonThread/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/DeamonThread/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/Thread_join/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Synchronize_Asynchronize/Thread_join/src/TestThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/demo-nccasia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract&amp;Interface/Bai01/Bai011.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract&amp;Interface/Bai02/Bai021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Bai01/Bai01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Bai02/Bai02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Bai03/Bai03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overriding&amp;Overloading/demo_overloading/demo_overloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overriding&amp;Overloading/demo_overriding/demo_overriding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.String/Mutable_VS_Immutable/out/production/Mutable_VS_Immutable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/repository/CommentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/repository/CommentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/ManageEmployee/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Octjs2qKrkLJ4M2LqTDCiOnQRO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/NCC Asia/demo-nccasia/2.String"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47685157-b713-4db6-9588-872e945a5a7b" name="Changes" comment="" />
+      <created>1681871835420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681871835420</updated>
+    </task>
+    <servers />
+  </component>
+</project>

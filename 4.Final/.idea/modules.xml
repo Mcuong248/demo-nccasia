@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4.Final.iml" filepath="$PROJECT_DIR$/.idea/4.Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final_Class/Final_Class.iml" filepath="$PROJECT_DIR$/Final_Class/Final_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final_Method/Final_Method.iml" filepath="$PROJECT_DIR$/Final_Method/Final_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final_Variable/Final_Variable.iml" filepath="$PROJECT_DIR$/Final_Variable/Final_Variable.iml" />
+    </modules>
+  </component>
+</project>

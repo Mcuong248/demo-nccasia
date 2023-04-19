@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea31f904-c46b-4f93-827d-d6a940ca748d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2.String/String_StringBuffer_StringBuilder/StringPool/src/Test/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/DeadLock_Thread/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/DeadLock_Thread/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/DeadLock_Thread/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/DeamonThread/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/DeamonThread/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/Thread_join/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Synchronize_Asynchronize/Thread_join/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Lambda/Lambda_Predicate/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/ArrayList_LinkedList/src/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/ArrayList_LinkedList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/Convert_Map_Set/src/MapToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/Convert_Map_Set/src/SetToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/HashSet_HashMap/src/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/HashSet_HashMap/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/LinkedHashSet_LinkedHashMap/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/LinkedHashSet_LinkedHashMap/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Collection/TreeSet_TreeMap/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-nccasia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.String/Mutable_VS_Immutable/out/production/Mutable_VS_Immutable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.String/String_StringBuffer_StringBuilder/StringBuffer_Sync/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.String/String_StringBuffer_StringBuilder/StringBuffer_Sync/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.String/String_StringBuffer_StringBuilder/String_StringBuilder_StringBuffer/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.String/String_StringBuffer_StringBuilder/String_StringBuilder_StringBuffer/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Passing Mechanism/PassByReference/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.Passing Mechanism/PassByReference/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Static/Static_Variable/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/5.Static/Static_Variable/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.Exception/Demo_TryCatch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/6.Exception/Demo_TryCatch/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Lambda/Lambda_Consumer/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Lambda/Lambda_Consumer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Lambda/Lambda_Predicate/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Lambda/Lambda_Predicate/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/repository/CommentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/java/com/ncc/manageemployee/repository/CommentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/ManageEmployee/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NwgyWAEem8iGlFfFohqUkjMfRD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/NCC Asia/demo-nccasia/4.Final",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea31f904-c46b-4f93-827d-d6a940ca748d" name="Changes" comment="" />
+      <created>1680580813329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680580813329</updated>
+    </task>
+    <servers />
+  </component>
+</project>

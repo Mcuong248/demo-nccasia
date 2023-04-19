@@ -10,7 +10,6 @@ public class Main {
         numbers.add(3);
 
         Consumer<Integer> printNumberConsumer = (number) -> System.out.println(number);
-
         numbers.forEach(printNumberConsumer);
     }
 }

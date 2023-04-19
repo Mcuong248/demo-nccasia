@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/8.Lambda.iml" filepath="$PROJECT_DIR$/.idea/8.Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Consumer/Lambda_Consumer.iml" filepath="$PROJECT_DIR$/Lambda_Consumer/Lambda_Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Function/Lambda_Function.iml" filepath="$PROJECT_DIR$/Lambda_Function/Lambda_Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_MethodReference/Lambda_MethodReference.iml" filepath="$PROJECT_DIR$/Lambda_MethodReference/Lambda_MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Predicate/Lambda_Predicate.iml" filepath="$PROJECT_DIR$/Lambda_Predicate/Lambda_Predicate.iml" />
+    </modules>
+  </component>
+</project>

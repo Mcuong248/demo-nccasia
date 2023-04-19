@@ -1,0 +1,1 @@
+Nếu một biến được khai báo với từ khóa static thì bạn có thể truy cập trực tiếp thông qua lớp.

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/9.Collection.iml" filepath="$PROJECT_DIR$/.idea/9.Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_HashSet_HashMap/Collections_HashSet_HashMap.iml" filepath="$PROJECT_DIR$/Collections_HashSet_HashMap/Collections_HashSet_HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_LinkedHashMap_LinkedHashSet/Collections_LinkedHashMap_LinkedHashSet.iml" filepath="$PROJECT_DIR$/Collections_LinkedHashMap_LinkedHashSet/Collections_LinkedHashMap_LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreateStreamPrimitive/CreateStreamPrimitive.iml" filepath="$PROJECT_DIR$/CreateStreamPrimitive/CreateStreamPrimitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_MethodSupplier/Stream_MethodSupplier.iml" filepath="$PROJECT_DIR$/Stream_MethodSupplier/Stream_MethodSupplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_Operations/Stream_Operations.iml" filepath="$PROJECT_DIR$/Stream_Operations/Stream_Operations.iml" />
+    </modules>
+  </component>
+</project>

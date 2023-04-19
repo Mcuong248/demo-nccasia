@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2.String.iml" filepath="$PROJECT_DIR$/.idea/2.String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mutable_VS_Immutable/Mutable_VS_Immutable.iml" filepath="$PROJECT_DIR$/Mutable_VS_Immutable/Mutable_VS_Immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuffer_Sync/StringBuffer_Sync.iml" filepath="$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuffer_Sync/StringBuffer_Sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuilder_MutilThread/StringBuilder_MutilThread.iml" filepath="$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuilder_MutilThread/StringBuilder_MutilThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuilder_StringBuffer/StringBuilder_StringBuffer.iml" filepath="$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringBuilder_StringBuffer/StringBuilder_StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringPool/StringPool.iml" filepath="$PROJECT_DIR$/String_StringBuffer_StringBuilder/StringPool/StringPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuffer_StringBuilder/String_StringBuilder_StringBuffer/String_StringBuilder_StringBuffer.iml" filepath="$PROJECT_DIR$/String_StringBuffer_StringBuilder/String_StringBuilder_StringBuffer/String_StringBuilder_StringBuffer.iml" />
+    </modules>
+  </component>
+</project>

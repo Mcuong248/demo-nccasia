@@ -15,7 +15,7 @@ public class TestController {
     @Autowired
     private EmployeeService employeeService;
 
-    @PostMapping
+    @PostMapping("/postEmployee")
     public ResponseEntity<Employee> creatNewEmployee (@RequestBody Employee employee){
         return new ResponseEntity<>(employeeService.save(employee), HttpStatus.OK);
     }
